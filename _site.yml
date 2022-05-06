@@ -1,0 +1,12 @@
+name: "lindsaynhayes.github.io"
+title: "Lindsay N. Hayes"
+description: |
+  Lindsay N. Hayes
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
