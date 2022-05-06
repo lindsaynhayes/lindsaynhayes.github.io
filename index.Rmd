@@ -2,14 +2,17 @@
 title: "Lindsay N. Hayes"
 image: "Lindsay.jpg"
 links:
-  - label: LinkedIn
+  - label: '<i class="fa fa-linkedin-square" aria-hidden="true"></i>'
     url: "https://www.linkedin.com/in/lindsay-hayes-32b22b141/"
-  - label: Twitter
+  - label: '<i class="fa fa-twitter" aria-hidden="true"></i>'
     url: "https://twitter.com/Lindsay_4c"
-  - label: GitHub
+  - label: '<i class="fa fa-github" aria-hidden="true"></i>'
     url: "https://github.com/lindsaynhayes"
-  - label: Email
+  - label: '<i class="fa fa-envelope" aria-hidden="true"></i>'
     url: "mailto:lindsaynhayes@gmail.com"
+  #- label: '<i class="fab fa-orcid"></i>'
+  #  url: "https://orcid.org/0000-0001-6314-6451"
+
 output:
   postcards::trestles
 site: distill::distill_website
