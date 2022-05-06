@@ -1,18 +1,36 @@
 ---
 title: "Lindsay N. Hayes"
-description: |
-  Welcome to the website. I hope you enjoy it!
+image: "Lindsay.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/lindsay-hayes-32b22b141/"
+  - label: Twitter
+    url: "https://twitter.com/Lindsay_4c"
+  - label: GitHub
+    url: "https://github.com/lindsaynhayes"
+  - label: Email
+    url: "mailto:lindsaynhayes@gmail.com"
+output:
+  postcards::trestles
 site: distill::distill_website
 ---
+ 
+## Bio
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+Lindsay N. Hayes is a researcher in the [Department of Neuroscience](https://neuroscience.jhu.edu) at [Johns Hopkins University](https://www.jhu.edu). She studies neuroinflammation and microglia biology in the context of health and disease. Lindsay uses both clinical samples and animal models to investigate the cellular and molecular mechanisms underlying neuroinflammation and how it impacts brain function and disease phenotypes.
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+## Education
 
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
+**Johns Hopkins University** | Baltimore, MD
 
-```
+Postdoctoral Fellowship | February 2012 - February 2018
 
+**Brown University** | Providence, RI 
+
+**NICHD** | Bethesda, MD
+
+Ph.D. in Neuroscience | July 2006 - January 2012
+
+**Evangel University** | Springfield, MO
+
+B.S. in Chemistry | August 2002 - May 2006
