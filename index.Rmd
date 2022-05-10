@@ -14,26 +14,7 @@ links:
   #  url: "https://orcid.org/0000-0001-6314-6451"
 
 output:
-  postcards::trestles
+  postcards::jolla
 site: distill::distill_website
 ---
- 
-## Bio
-
-Lindsay N. Hayes is a researcher in the [Department of Neuroscience](https://neuroscience.jhu.edu) at [Johns Hopkins University](https://www.jhu.edu). She studies neuroinflammation and microglia biology in the context of health and disease. Lindsay uses both clinical samples and animal models to investigate the cellular and molecular mechanisms underlying neuroinflammation and how it impacts brain function and disease phenotypes.
-
-## Education
-
-**Johns Hopkins University** | Baltimore, MD
-
-Postdoctoral Fellowship | February 2012 - February 2018
-
-**Brown University** | Providence, RI 
-
-**NICHD** | Bethesda, MD
-
-Ph.D. in Neuroscience | July 2006 - January 2012
-
-**Evangel University** | Springfield, MO
-
-B.S. in Chemistry | August 2002 - May 2006
+Lindsay is a researcher in the [Department of Neuroscience](https://neuroscience.jhu.edu) at [Johns Hopkins University](https://www.jhu.edu). She studies neuroinflammation and microglia biology in the context of health and disease. Lindsay uses both clinical samples and animal models to investigate the cellular and molecular mechanisms underlying neuroinflammation and how it impacts brain function and disease phenotypes.

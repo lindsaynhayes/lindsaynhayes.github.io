@@ -8,5 +8,5 @@ Webiste was created using [this](https://www.youtube.com/watch?v=RYf5HqU1pI4) tu
 #install.packages("postcards", "distill")
 library(distill)
 create_website(dir = ".", title = "Lindsay N. Hayes", gh_pages = TRUE)
-create_article(file = "home", template = "trestles", package = "postcards")
+create_article(file = "home", template = "jolla", package = "postcards")
 ```
