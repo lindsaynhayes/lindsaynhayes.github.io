@@ -1,7 +1,7 @@
 ---
-title: "Distill for R Markdown"
+title: "Welcome to my Page"
 description: | 
-  Scientific and technical writing, native to the web
+  let me tell you more about me
 date: May 11, 2022
 author:
   - first_name: "Lindsay"
@@ -13,5 +13,7 @@ author:
 bibliography: works.bib
 output: distill::distill_article
 ---
+
+Lindsay is a researcher in the [Department of Neuroscience](https://neuroscience.jhu.edu) at [Johns Hopkins University](https://www.jhu.edu). She studies neuroinflammation and microglia biology in the context of health and disease. Lindsay uses both clinical samples and animal models to investigate the cellular and molecular mechanisms underlying neuroinflammation and how it impacts brain function and disease phenotypes.
 
 [@Lindsay_Hayes_57255097]
