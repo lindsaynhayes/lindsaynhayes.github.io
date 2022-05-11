@@ -14,7 +14,8 @@ links:
   #  url: "https://orcid.org/0000-0001-6314-6451"
 
 output:
-  postcards::jolla
+  postcards::trestles
 site: distill::distill_website
 ---
 Lindsay is a researcher in the [Department of Neuroscience](https://neuroscience.jhu.edu) at [Johns Hopkins University](https://www.jhu.edu). She studies neuroinflammation and microglia biology in the context of health and disease. Lindsay uses both clinical samples and animal models to investigate the cellular and molecular mechanisms underlying neuroinflammation and how it impacts brain function and disease phenotypes.
+

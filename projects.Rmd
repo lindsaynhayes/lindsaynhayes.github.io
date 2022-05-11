@@ -1,7 +1,7 @@
 ---
-title: "Welcome to my Page"
+title: "Welcome to my Site!"
 description: | 
-  let me tell you more about me
+  I'm glad you're here ...
 date: May 11, 2022
 author:
   - first_name: "Lindsay"
@@ -14,6 +14,17 @@ bibliography: works.bib
 output: distill::distill_article
 ---
 
+<aside>
+```{r image, echo=FALSE}
+ knitr::include_graphics("Lindsay1.jpg")
+```
+</aside>
+
+
+
 Lindsay is a researcher in the [Department of Neuroscience](https://neuroscience.jhu.edu) at [Johns Hopkins University](https://www.jhu.edu). She studies neuroinflammation and microglia biology in the context of health and disease. Lindsay uses both clinical samples and animal models to investigate the cellular and molecular mechanisms underlying neuroinflammation and how it impacts brain function and disease phenotypes.
 
 [@Lindsay_Hayes_57255097]
+
+## Site {.appendix}
+Created with Blogdown, Distill, and postscards
