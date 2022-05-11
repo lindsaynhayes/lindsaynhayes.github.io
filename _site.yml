@@ -22,4 +22,5 @@ navbar:
     - text: "CV"
       href: CV.pdf
       
+      
 output: distill::distill_article

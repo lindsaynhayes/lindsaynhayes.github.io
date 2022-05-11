@@ -1,27 +1,26 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
-      "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-05-10T13:52:08-04:00"
-    },
-    {
-      "path": "CV.html",
-      "title": "Lindsay N. Hayes, Ph.D.",
-      "description": "Some additional details about the website",
-      "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-05-10T13:52:09-04:00"
-    },
-    {
       "path": "index.html",
       "title": "Lindsay N. Hayes",
       "author": [],
       "contents": "\n\n          \n          \n          Lindsay N. Hayes\n          \n          \n          About\n          Publications\n          \n          \n          Projects\n           \n          ▾\n          \n          \n          Overview\n          Hayes et al. 2022 Nature\n          \n          \n          Talks\n          Teaching\n          CV\n          ☰\n          \n          \n      \n        \n          \n            Lindsay N. Hayes\n          \n          \n            \n              Lindsay is a researcher in the Department of\n              Neuroscience at Johns\n              Hopkins University. She studies neuroinflammation and\n              microglia biology in the context of health and disease.\n              Lindsay uses both clinical samples and animal models to\n              investigate the cellular and molecular mechanisms\n              underlying neuroinflammation and how it impacts brain\n              function and disease phenotypes.\n            \n            \n              Lindsay is a researcher in the Department of\n              Neuroscience at Johns\n              Hopkins University. She studies neuroinflammation and\n              microglia biology in the context of health and disease.\n              Lindsay uses both clinical samples and animal models to\n              investigate the cellular and molecular mechanisms\n              underlying neuroinflammation and how it impacts brain\n              function and disease phenotypes.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      \n                    \n                  \n                \n                                \n                  \n                    \n                      \n                    \n                  \n                \n                                \n                  \n                    \n                      \n                    \n                  \n                \n                                \n                  \n                    \n                      \n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    \n                  \n                \n                                \n                  \n                    \n                  \n                \n                                \n                  \n                    \n                  \n                \n                                \n                  \n                    \n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2022-05-10T13:52:09-04:00"
+      "last_modified": "2022-05-11T08:36:47-04:00"
+    },
+    {
+      "path": "publications.html",
+      "title": "Publications",
+      "author": [],
+      "contents": "\n\n updated on 2022-05-11\n\nlink\nto Pubmed Bibliography\nHayes LN, An K, Carloni E, Li F, Vincent E,\nParanjpe M, Dolen G, Goff LA, Ramos A, Kano S, Sawa A (2021) Prenatal\nimmune stress induces a prolonged blunting of microglia activation that\nimpacts striatal connectivity. bioRxiv, 2021.12.27.473694. link\nCarloni E, Ramos A, Hayes LN (2021)\nDevelopmental Stressors Induce Innate Immune Memory in Microglia and\nContribute to Disease Risk. International Journal of Molecular\nSciences, 22:13035. link\nXiao MF, Roh SE, Zhou J, Chien CC, Lucey BP, Craig MT,\nHayes LN, Coughlin JM, Leweke FM, Jia M, Xu D, Zhou W,\nConover Talbot C, Arnold DB, Staley M, Jiang C, Reti IM, Sawa A, Pelkey\nKA, McBain CJ, Savonenko A et al. (2021) A biomarker-authenticated model\nof schizophrenia implicating NPTX2 loss of function. Science\nAdvances, 7:eabf6935. link\nMueller FS, Richetto J, Hayes LN, Zambon A,\nPollak DD, Sawa A, Meyer U, Weber-Stadlbauer U (2019) Influence of\npoly(I:C) variability on thermoregulation, immune responses and\npregnancy outcomes in mouse models of maternal immune activation.\nBrain Behavior Immunity, 80:406–418. link\nFukudome D, Hayes LN*, Faust TE*, Foss CA, Kondo\nMA, Lee BJ, Saito A, Kano SI, Coughlin JM, Kamiya A, Pomper MG, Sawa A,\nNiwa M (2018) Translocator protein (TSPO) and stress cascades in mouse\nmodels of psychosis with inflammatory disturbances. Schizophrenia\nResearch, 197:492-497. link\nNucifora LG, Tanaka T, Hayes LN, Kim M, Lee BJ,\nMatsuda T, Nucifora FC, Sedlak T, Mojtabai R, Eaton W, Sawa A (2017)\nReduction of plasma glutathione in psychosis associated with\nschizophrenia and bipolar disorder in translational psychiatry.\nTranslational Psychiatry, 7:e1215. link\nCoughlin JM*, Hayes LN*, Tanaka T*, Xiao M,\nYolken RH, Worley P, Leweke FM, Sawa A (2017) Reduced superoxide\ndismutase-1 (SOD1) in cerebrospinal fluid of patients with early\npsychosis in association with clinical features. Schizophrenia\nResearch, 183:64–69. link\nTanaka T*, Matsuda T*, Hayes LN*, Yang S,\nRodriguez K, Severance EG, Yolken RH, Sawa A, Eaton WW (2017) Infection\nand inflammation in schizophrenia and bipolar disorder. Neuroscience\nResearch, 115:59–63. link\nHayes LN*, Shevelkin A*, Zeledon M, Steel G,\nChen PL, Obie C, Pulver A, Avramopoulos D, Valle D, Sawa A, Pletnikov MV\n(2016) Neuregulin 3 Knockout Mice Exhibit Behaviors Consistent with\nPsychotic Disorders. Molecular Neuropsychiatry, 2:79–87. link\nCoughlin JM, Wang Y, Ambinder EB, Ward RE, Minn I, Vranesic M,\nKim PK, Ford CN, Higgs C, Hayes LN, Schretlen DJ,\nDannals RF, Kassiou M, Sawa A, Pomper MG (2016) In vivo markers of\ninflammatory response in recent-onset schizophrenia: a combined study\nusing [(11)C]DPA-713 PET and analysis of CSF and plasma.\nTranslational Psychiatry, 6:e777. link\nHayes LN, Severance EG, Leek JT, Gressitt KL,\nRohleder C, Coughlin JM, Leweke FM, Yolken RH, Sawa A (2014)\nInflammatory molecular signature associated with infectious agents in\npsychosis. Schizophrenia Bulletin, 40:963–972. link\nHayes LN, Ralls S, Wang H, Ahn S (2013) Duration\nof Shh signaling contributes to mDA neuron diversity. Developmental\nBiology, 374:115–126. link\nHayes LN, Zhang Z, Albert P, Zervas M, Ahn S\n(2011) Timing of Sonic hedgehog and Gli1 expression segregates midbrain\ndopamine neurons. Journal of Comparative Neurology,\n519:3001–3018. link\nBrown A, Machan JT, Hayes LN, Zervas M (2011)\nMolecular organization and timing of Wnt1 expression define cohorts of\nmidbrain dopamine neuron progenitors in vivo. Journal of Comparative\nNeurology, 519:2978–3000. link\nCarney RS, Mangin JM, Hayes LN, Mansfield K,\nSousa VH, Fishell G, Machold RP, Ahn S, Gallo V, Corbin JG (2010) Sonic\nhedgehog expressing and responding cells generate neuronal diversity in\nthe medial amygdala. Neural Development, 5:14. link\nDevore M, Foresee LN, Michno N, Badger S (2006)\nDetermination of Environmental Conditions of Four Greene County Caves.\nTransactions of the Missouri Academy of Science,\n40:22–29.\nLi K, Foresee LN, Tunge JA (2005)\nTrifluoroacetic acid-mediated hydroarylation: synthesis of\ndihydrocoumarins and dihydroquinolones. Journal of Organic\nChemistry, 70:2881–2883. link\nTunge JA, Foresee LN (2005) Mechanistic Studies\nof Fujiwara Hydroarylation. C− H Activation versus Electrophilic\nAromatic Substitution. Organometallics, 24:6440–6444. link\n\n\n\n",
+      "last_modified": "2022-05-11T08:36:48-04:00"
+    },
+    {
+      "path": "teaching.html",
+      "title": "Lindsay N. Hayes, Ph.D.",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-05-11T08:36:49-04:00"
     },
     {
       "path": "XXindex.html",
@@ -29,7 +28,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-05-10T13:52:09-04:00"
+      "last_modified": "2022-05-11T08:36:49-04:00"
     }
   ],
   "collections": []

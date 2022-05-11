@@ -1,0 +1,7 @@
+---
+title: "Teaching & Mentoring"
+description: |
+  Courses and workshops I've taught & Student's I've mentored
+---
+
+
