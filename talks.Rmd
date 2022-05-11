@@ -1,0 +1,100 @@
+---
+title: "Invited Talks & Conference Presentations"
+description: |
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    toc: true
+    theme: theme.css
+---
+
+## Invited Talks
+
+### CSHL
+**Schizophrenia and Related Disorders CSHL Workshop** Title: Neuroinflammation and Brain Immune Cells in Neuropsychiatric Disorders. Harbor, NY. June 2022
+
+### PNC
+**Johns Hopkins Perinatology & Neonatology Monthly Colloquium** Title: Neuroimmune Interactions from Development to Mature Brain Function. Baltimore, MD. July 2019
+
+### Stanley
+**The 22nd Annual Stanley Meeting** Title: Maternal Stress Alters Microglia Responsiveness: Influence on Brain Function and Behavior. Baltimore, MD. November 2016
+
+## Conference Presentation (Oral)
+### Keystone 2022
+**Neuro-Immune Interactions in the Central Nervous System** Title: Prenatal immune stress induces a prolonged blunting of microglia reactivity that impairs striatal connectivity. Hayes LN, An K, Vincent E, Paranjpe M, Bless L, Chang AJ, Diaz C, Dölen G, Kano SI, Ramos A, Goff LA, Sawa A. June 2022
+
+### EMBO 2021
+**EMBO Microglia Workshop** Title: Prenatal immune stress induces a prolonged blunting of microglia activation and neuronal connectivity. Hayes LN, An K, Vincent E, Paranjpe M, Bless L, Chang AJ, Diaz C, Dölen G, Kano SI, Ramos A, Goff LA, Sawa A. (Flash Talk)
+
+### Gordon 2019
+**Glia Biology: Functional Interactions Among Glia and Neurons** Title: Prenatal immune stress induces a prolonged blunting of microglia activation and impacts social behavior and neuronal connectivity. Hayes LN, An K, Vincent E, Paranjpe M, Bless L, Chang AJ, Diaz C, Dölen G, Kano SI, Ramos A, Goff LA, Sawa A
+
+### Baltimore Brain Series 2018
+**Baltimore Brain Series** Title: Early maternal stress diminishes microglia reactivity and striatum connectivity. Hayes LN, An K, Vincent E, Paranjpe M, Kim M, Chang AJ, Diaz C, Ramos A, Goff LA, Sawa A
+
+### EMBO 2018
+**EMBO Microglia Workshop** Title: Early Maternal Stress Alters Microglia Responsiveness to Activation and Impacts Striatal Circuit Function and Behaviors. Hayes LN, An K, Paranjpe M, Kim M, Vincent E, Goff LA, Sawa A
+
+### SfN 2015
+**Society for Neuroscience Meeting** Title: Alterations in adolescent stress cascades in genetic and environmental mouse models of major mental illness and the implications on adult behavioral deficits. Hayes LN, An K, Barodia S, Moore J, Kim S-H, Jaaro-Peled H, Fukudome D, Faust T, Niwa M, Sawa A.
+
+### SOBP 2015
+**Society for Biological Psychiatry** Title: Alterations in markers associated with oxidative stress, inflammation, and protein misfolding in patients with recent onset psychosis. Coughlin JM, Tanaka T, Ford CN, Kim PK, Hayes LN, Marsman A, Barker PB, Sawa A.
+
+### ICOSR 2015
+**International Congress on Schizophrenia Research** Title: Angiotensin Signaling in Development and Pathology of Immune- Associated Psychosis. Hayes LN, Sawa A.
+
+### Neuro Seminar 2014
+**Neuroscience Department Lab Seminar Series** Title: Inflammation in schizophrenia patients and maternal immune activation new insights from the angiotensin pathway. Hayes LN, Sawa A.
+
+### SfN 2014
+**Society for Neuroscience Meeting** Title: Angiotensin signaling as a key regulator of neuroinflammation: a role in developmental psychotic disease. Hayes LN, Sawa A.
+
+### SfN 2013
+**Society for Neuroscience Meeting** Title: Molecular and cellular characterization of microglia- like cells derived from patients with schizophrenia and their implications for the developmental insult hypothesis. Hayes LN, Alkhunaizi F, Sawa A.
+
+### Keystone 2011
+**Neurodegenerative Diseases** Title: The Timing of Sonic Hedgehog and Gli1 Expression Segregates Midbrain Dopamine Neurons. Hayes LN, Zhang Z, Albert P, Zervas M, Ahn S.
+
+### NICHD Retreat 2010
+**NICHD Principle Investigator Retreat** Title: Where does dopamine neuron diversity come from? Hayes LN, Ahn S.
+
+### NIH Neurobiology IG 2009
+**NIH Neurobiology Interest Group** Title: Not all dopamine neurons are alike: How early Sonic Hedgehog signaling may influence later diversity. Hayes LN, Ahn S.
+
+## Conference Presentation (Poster)
+### Rockefeller 2018
+**Glia-Neuron Interaction in Developing Circuits** Title: Early maternal stress diminishes microglia reactivity and striatum connectivity. Hayes LN, An K, Vincent E, Paranjpe M, Kim M, Chang AJ, Diaz C, Ramos A, Goff LA, Sawa A.
+
+### SfN 2017
+**Society for Neuroscience Meeting** Title: Microglia priming through maternal immune stress influences brain function and behavior. Hayes LN, An K, Kim M, Nardou R, Chang AJ, Dolen G, Sawa A.
+
+### SfN 2017
+**Society for Neuroscience Meeting** Title: Reduction of plasma glutathione in psychosis associated with schizophrenia and bipolar disorder in translational psychiatry. Nucifora LG, Tanaka T, Hayes LN, Kim M, Lee BJ, Matsudo T, Nucifora FC, Sedlak T, Mojtabai R, Eaton W, Sawa A.
+
+### Cell Symposia 2017
+**Neuro-Immune Axis: Reciprocal Regulation in Development, Health, and Disease** Title: Microglia priming by early maternal stress diminishes immune responsiveness and task switching. Hayes LN, An K, Vincent E, Paranjpe M, Nardou R, Kim M, Dolen G, Goff LA, Sawa A.
+
+### Keystone 2016
+**Microglia in the Brain** Title: Developmental deficits in microglia influence brain function and behavior. Hayes LN, Diaz C, Nardou R, Chang A, Dolen G, Sawa A.
+
+### ACNP 2015
+**ACNP 54th Annual Meeting** Title: Oxidative Stress in the Pathophysiology of Psychiatric Disorders: Studies of Patient Biospecimens and Animal Models. Niwa M, Hayes LN, Tanaka T, Faust T, Fukudome D, Cash-Padgett T, Jaaro-Peled H.
+
+### ACNP 2014
+**ACNP 53th Annual Meeting** Title: Probing molecular markers of inflammation and oxidative stress in patients with early stage schizophrenia: A combined study of CSF and PET-based imaging. Coughlin JM, Wang Y, Tanaka T, Ma S, Hayes LN, Pomper MG, Sawa A.
+
+### CSHL 2014
+**Glia in Health and Disease** Title: Angiotensin signaling in schizophrenia patients and mice after maternal immune activation: Potential molecular regulator of neuroinflammation. Hayes LN, Kim J, Sawa A.
+
+### SfN 2011
+**Society for Neuroscience Meeting** Title: The progenitors in the venral mesencephalon mutually regulate the induction and cessation of Shh and Gli1 expession for proper dopamine neuron specification. Hayes LN, Zervas M, Ahn S.
+
+### SfN 2009
+**Society for Neuroscience Meeting** Title: Linking the Shh and Gli1 lineages to dopamine neuron diversity: Discovering how the subtypes and circuits are established in the adult. Hayes LN, Zervas M, Ahh S.
+
+### SfN 2009
+**Society for Neuroscience Meeting** Title: Genetic specification of neuronal diversity in the medial amygdala. Carney R, Hayes LN, Sousa V, Mansfield K, Fishell G, Machold R, Ahn S, Corbin, J.
+
+### SfN 2008
+**Society for Neuroscience Meeting** Title: Sonic hedgehog signaling contributes to midbrain dopamine neuron development. Hayes LN, Zervas M, Ahn S.
