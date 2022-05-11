@@ -7,11 +7,6 @@ output:
     toc: true
     theme: theme.css
 ---
-
-```{r, echo=FALSE, message=TRUE}
-message( " updated on ", Sys.Date() )
-```
-
 ## Courses & Workshops
 
 ### 2022
