@@ -1,7 +1,7 @@
 ---
 title: "Teaching & Mentoring"
 description: |
-  The goal of mentoring whether in the classroom or the laboratory is to comprehensively equip students with tools and resources to cultivate the skills required for their personalized futures.
+  The intention of mentoring, whether in the classroom or the laboratory, is to comprehensively equip students with tools and resources to cultivate the skills required for their personalized futures.
 output:
   distill::distill_article:
     toc: true
