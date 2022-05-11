@@ -85,31 +85,58 @@ code span.vs { color: #20794d; } /* VerbatimString */
 code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
+<style>
+  div.csl-bib-body { }
+  div.csl-entry {
+    clear: both;
+    }
+  .hanging div.csl-entry {
+    margin-left:2em;
+    text-indent:-2em;
+  }
+  div.csl-left-margin {
+    min-width:2em;
+    float:left;
+  }
+  div.csl-right-inline {
+    margin-left:2em;
+    padding-left:1em;
+  }
+  div.csl-indent {
+    margin-left: 2em;
+  }
+</style>
 
   <!--radix_placeholder_meta_tags-->
-  <title>Lindsay N. Hayes: Teaching &amp; Mentoring</title>
+  <title>Lindsay N. Hayes: Distill for R Markdown</title>
 
-  <meta property="description" itemprop="description" content="The goal of mentoring whether in the classroom or the laboratory is to universally equip students with the tools and resources to educate themselves in the knowledge required for their personalized futures."/>
+  <meta property="description" itemprop="description" content="Scientific and technical writing, native to the web"/>
 
 
+  <!--  https://schema.org/Article -->
+  <meta property="article:published" itemprop="datePublished" content="2022-05-11"/>
+  <meta property="article:created" itemprop="dateCreated" content="2022-05-11"/>
+  <meta name="article:author" content="Lindsay Hayes"/>
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Lindsay N. Hayes: Teaching &amp; Mentoring"/>
+  <meta property="og:title" content="Lindsay N. Hayes: Distill for R Markdown"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="The goal of mentoring whether in the classroom or the laboratory is to universally equip students with the tools and resources to educate themselves in the knowledge required for their personalized futures."/>
+  <meta property="og:description" content="Scientific and technical writing, native to the web"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Lindsay N. Hayes"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Lindsay N. Hayes: Teaching &amp; Mentoring"/>
-  <meta property="twitter:description" content="The goal of mentoring whether in the classroom or the laboratory is to universally equip students with the tools and resources to educate themselves in the knowledge required for their personalized futures."/>
+  <meta property="twitter:title" content="Lindsay N. Hayes: Distill for R Markdown"/>
+  <meta property="twitter:description" content="Scientific and technical writing, native to the web"/>
 
   <!--/radix_placeholder_meta_tags-->
+  
+  <meta name="citation_reference" content="citation_title=Translocator protein (TSPO) and stress cascades in mouse models of psychosis with inflammatory disturbances.;citation_publication_date=2018;citation_doi=10.1016/j.schres.2018.01.015;citation_author=Lindsay Hayes"/>
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output"]}},"value":[{"type":"character","attributes":{},"value":["Teaching & Mentoring"]},{"type":"character","attributes":{},"value":["The goal of mentoring whether in the classroom or the laboratory is to universally equip students with the tools and resources to educate themselves in the knowledge required for their personalized futures.\n"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","theme"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"character","attributes":{},"value":["theme.css"]}]}]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date","author","bibliography","output"]}},"value":[{"type":"character","attributes":{},"value":["Distill for R Markdown"]},{"type":"character","attributes":{},"value":["Scientific and technical writing, native to the web\n"]},{"type":"character","attributes":{},"value":["May 11, 2022"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["first_name","last_name","url","affiliation","affiliation_url","orcid_id"]}},"value":[{"type":"character","attributes":{},"value":["Lindsay"]},{"type":"character","attributes":{},"value":["Hayes"]},{"type":"character","attributes":{},"value":["https://github.com/lindsaynhayes"]},{"type":"character","attributes":{},"value":["Department of Neuroscience, Johns Hopkins University"]},{"type":"character","attributes":{},"value":["https://neuroscience.jhu.edu"]},{"type":"character","attributes":{},"value":["0000-0001-6314-6451"]}]}]},{"type":"character","attributes":{},"value":["works.bib"]},{"type":"character","attributes":{},"value":["distill::distill_article"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2036,316 +2063,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   </script>
 
-  <style type="text/css">
-  /* base variables */
-
-  /* Edit the CSS properties in this file to create a custom
-     Distill theme. Only edit values in the right column
-     for each row; values shown are the CSS defaults.
-     To return any property to the default,
-     you may set its value to: unset
-     All rows must end with a semi-colon.                      */
-
-  /* Optional: embed custom fonts here with `@import`          */
-  /* This must remain at the top of this file.                 */
-
-
-
-  html {
-    /*-- Main font sizes --*/
-    --title-size:      50px;
-    --body-size:       1.06rem;
-    --code-size:       14px;
-    --aside-size:      12px;
-    --fig-cap-size:    13px;
-    /*-- Main font colors --*/
-    --title-color:     #000000;
-    --header-color:    rgba(0, 0, 0, 0.8);
-    --body-color:      rgba(0, 0, 0, 0.8);
-    --aside-color:     rgba(0, 0, 0, 0.6);
-    --fig-cap-color:   rgba(0, 0, 0, 0.6);
-    /*-- Specify custom fonts ~~~ must be imported above   --*/
-    --heading-font:    sans-serif;
-    --mono-font:       monospace;
-    --body-font:       sans-serif;
-    --navbar-font:     sans-serif;  /* websites + blogs only */
-  }
-
-  /*-- ARTICLE METADATA --*/
-  d-byline {
-    --heading-size:    0.6rem;
-    --heading-color:   rgba(0, 0, 0, 0.5);
-    --body-size:       0.8rem;
-    --body-color:      rgba(0, 0, 0, 0.8);
-  }
-
-  /*-- ARTICLE TABLE OF CONTENTS --*/
-  .d-contents {
-    --heading-size:    18px;
-    --contents-size:   13px;
-  }
-
-  /*-- ARTICLE APPENDIX --*/
-  d-appendix {
-    --heading-size:    15px;
-    --heading-color:   rgba(0, 0, 0, 0.65);
-    --text-size:       0.8em;
-    --text-color:      rgba(0, 0, 0, 0.5);
-  }
-
-  /*-- WEBSITE HEADER + FOOTER --*/
-  /* These properties only apply to Distill sites and blogs  */
-
-  .distill-site-header {
-    --title-size:       18px;
-    --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
-    --hover-color:      white;
-    --bkgd-color:       #0F2E3D;
-  }
-
-  .distill-site-footer {
-    --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
-    --hover-color:      white;
-    --bkgd-color:       #0F2E3D;
-  }
-
-  /*-- Additional custom styles --*/
-  /* Add any additional CSS rules below                      */
-  </style>
-  <style type="text/css">
-  /* base variables */
-
-  /* Edit the CSS properties in this file to create a custom
-     Distill theme. Only edit values in the right column
-     for each row; values shown are the CSS defaults.
-     To return any property to the default,
-     you may set its value to: unset
-     All rows must end with a semi-colon.                      */
-
-  /* Optional: embed custom fonts here with `@import`          */
-  /* This must remain at the top of this file.                 */
-
-
-
-  html {
-    /*-- Main font sizes --*/
-    --title-size:      50px;
-    --body-size:       1.06rem;
-    --code-size:       14px;
-    --aside-size:      12px;
-    --fig-cap-size:    13px;
-    /*-- Main font colors --*/
-    --title-color:     #000000;
-    --header-color:    rgba(0, 0, 0, 0.8);
-    --body-color:      rgba(0, 0, 0, 0.8);
-    --aside-color:     rgba(0, 0, 0, 0.6);
-    --fig-cap-color:   rgba(0, 0, 0, 0.6);
-    /*-- Specify custom fonts ~~~ must be imported above   --*/
-    --heading-font:    sans-serif;
-    --mono-font:       monospace;
-    --body-font:       sans-serif;
-    --navbar-font:     sans-serif;  /* websites + blogs only */
-  }
-
-  /*-- ARTICLE METADATA --*/
-  d-byline {
-    --heading-size:    0.6rem;
-    --heading-color:   rgba(0, 0, 0, 0.5);
-    --body-size:       0.8rem;
-    --body-color:      rgba(0, 0, 0, 0.8);
-  }
-
-  /*-- ARTICLE TABLE OF CONTENTS --*/
-  .d-contents {
-    --heading-size:    18px;
-    --contents-size:   13px;
-  }
-
-  /*-- ARTICLE APPENDIX --*/
-  d-appendix {
-    --heading-size:    15px;
-    --heading-color:   rgba(0, 0, 0, 0.65);
-    --text-size:       0.8em;
-    --text-color:      rgba(0, 0, 0, 0.5);
-  }
-
-  /*-- WEBSITE HEADER + FOOTER --*/
-  /* These properties only apply to Distill sites and blogs  */
-
-  .distill-site-header {
-    --title-size:       18px;
-    --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
-    --hover-color:      white;
-    --bkgd-color:       #0F2E3D;
-  }
-
-  .distill-site-footer {
-    --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
-    --hover-color:      white;
-    --bkgd-color:       #0F2E3D;
-  }
-
-  /*-- Additional custom styles --*/
-  /* Add any additional CSS rules below                      */
-  </style>
-  <style type="text/css">
-  /* base style */
-
-  /* FONT FAMILIES */
-
-  :root {
-    --heading-default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
-    --mono-default: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-    --body-default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
-  }
-
-  body,
-  .posts-list .post-preview p,
-  .posts-list .description p {
-    font-family: var(--body-font), var(--body-default);
-  }
-
-  h1, h2, h3, h4, h5, h6,
-  .posts-list .post-preview h2,
-  .posts-list .description h2 {
-    font-family: var(--heading-font), var(--heading-default);
-  }
-
-  d-article div.sourceCode code,
-  d-article pre code {
-    font-family: var(--mono-font), var(--mono-default);
-  }
-
-
-  /*-- TITLE --*/
-  d-title h1,
-  .posts-list > h1 {
-    color: var(--title-color, black);
-  }
-
-  d-title h1 {
-    font-size: var(--title-size, 50px);
-  }
-
-  /*-- HEADERS --*/
-  d-article h1,
-  d-article h2,
-  d-article h3,
-  d-article h4,
-  d-article h5,
-  d-article h6 {
-    color: var(--header-color, rgba(0, 0, 0, 0.8));
-  }
-
-  /*-- BODY --*/
-  d-article > p,  /* only text inside of <p> tags */
-  d-article > ul, /* lists */
-  d-article > ol {
-    color: var(--body-color, rgba(0, 0, 0, 0.8));
-    font-size: var(--body-size, 1.06rem);
-  }
-
-
-  /*-- CODE --*/
-  d-article div.sourceCode code,
-  d-article pre code {
-    font-size: var(--code-size, 14px);
-  }
-
-  /*-- ASIDE --*/
-  d-article aside {
-    font-size: var(--aside-size, 12px);
-    color: var(--aside-color, rgba(0, 0, 0, 0.6));
-  }
-
-  /*-- FIGURE CAPTIONS --*/
-  figure .caption,
-  figure figcaption,
-  .figure .caption {
-    font-size: var(--fig-cap-size, 13px);
-    color: var(--fig-cap-color, rgba(0, 0, 0, 0.6));
-  }
-
-  /*-- METADATA --*/
-  d-byline h3 {
-    font-size: var(--heading-size, 0.6rem);
-    color: var(--heading-color, rgba(0, 0, 0, 0.5));
-  }
-
-  d-byline {
-    font-size: var(--body-size, 0.8rem);
-    color: var(--body-color, rgba(0, 0, 0, 0.8));
-  }
-
-  d-byline a,
-  d-article d-byline a {
-    color: var(--body-color, rgba(0, 0, 0, 0.8));
-  }
-
-  /*-- TABLE OF CONTENTS --*/
-  .d-contents nav h3 {
-    font-size: var(--heading-size, 18px);
-  }
-
-  .d-contents nav a {
-    font-size: var(--contents-size, 13px);
-  }
-
-  /*-- APPENDIX --*/
-  d-appendix h3 {
-    font-size: var(--heading-size, 15px);
-    color: var(--heading-color, rgba(0, 0, 0, 0.65));
-  }
-
-  d-appendix {
-    font-size: var(--text-size, 0.8em);
-    color: var(--text-color, rgba(0, 0, 0, 0.5));
-  }
-
-  d-appendix d-footnote-list a.footnote-backlink {
-    color: var(--text-color, rgba(0, 0, 0, 0.5));
-  }
-
-  /*-- WEBSITE HEADER + FOOTER --*/
-  .distill-site-header .title {
-    font-size: var(--title-size, 18px);
-    font-family: var(--navbar-font), var(--heading-default);
-  }
-
-  .distill-site-header a,
-  .nav-dropdown .nav-dropbtn {
-    font-family: var(--navbar-font), var(--heading-default);
-  }
-
-  .nav-dropdown .nav-dropbtn {
-    color: var(--text-color, rgba(255, 255, 255, 0.8));
-    font-size: var(--text-size, 15px);
-  }
-
-  .distill-site-header a:hover,
-  .nav-dropdown:hover .nav-dropbtn {
-    color: var(--hover-color, white);
-  }
-
-  .distill-site-header {
-    font-size: var(--text-size, 15px);
-    color: var(--text-color, rgba(255, 255, 255, 0.8));
-    background-color: var(--bkgd-color, #0F2E3D);
-  }
-
-  .distill-site-footer {
-    font-size: var(--text-size, 15px);
-    color: var(--text-color, rgba(255, 255, 255, 0.8));
-    background-color: var(--bkgd-color, #0F2E3D);
-  }
-
-  .distill-site-footer a:hover {
-    color: var(--hover-color, white);
-  }</style>
   <!--/radix_placeholder_distill-->
   <script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
@@ -2367,7 +2084,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Teaching & Mentoring","description":"The goal of mentoring whether in the classroom or the laboratory is to universally equip students with the tools and resources to educate themselves in the knowledge required for their personalized futures.","authors":[]}
+{"title":"Distill for R Markdown","description":"Scientific and technical writing, native to the web","authors":[{"author":"Lindsay Hayes","authorURL":"https://github.com/lindsaynhayes","affiliation":"Department of Neuroscience, Johns Hopkins University","affiliationURL":"https://neuroscience.jhu.edu","orcidID":"0000-0001-6314-6451"}],"publishedDate":"2022-05-11T00:00:00.000-04:00","citationText":"Hayes, 2022"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2403,135 +2120,35 @@ Projects
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Teaching &amp; Mentoring</h1>
+<h1>Distill for R Markdown</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>The goal of mentoring whether in the classroom or the laboratory
-is to universally equip students with the tools and resources to educate
-themselves in the knowledge required for their personalized
-futures.</p></p>
+<p><p>Scientific and technical writing, native to the web</p></p>
 </div>
 
+<div class="d-byline">
+  
+  true
+  
+<br/>May 11, 2022
+</div>
 
 <div class="d-article">
-<div class="d-contents d-contents-float">
-<nav class="l-text toc figcaption" id="TOC">
-<h3>Contents</h3>
-<ul>
-<li><a href="#courses-workshops">Courses &amp; Workshops</a>
-<ul>
-<li><a href="#section">2022</a></li>
-<li><a href="#section-1">2021</a></li>
-<li><a href="#section-2">2020</a></li>
-<li><a href="#section-3">2016</a></li>
-<li><a href="#section-4">2014</a></li>
-<li><a href="#section-5">2003 - 2006</a></li>
-</ul></li>
-<li><a href="#mentoring">Mentoring</a></li>
-</ul>
-</nav>
-</div>
-<div class="layout-chunk" data-layout="l-body">
-<pre><code> updated on 2022-05-11</code></pre>
-</div>
-<h2 id="courses-workshops">Courses &amp; Workshops</h2>
-<h3 id="section">2022</h3>
-<p>Course: <a
-href="https://www.cloviscollege.edu/landing/biol-12-genomics-data-science.html">Research
-in Biology</a> at Clovis Community College in Fresno, CA</p>
-<p>Sections: FA 2021, SP 2022, SU 2022</p>
-<p>Role: Content Creator &amp; Lead Teaching Assistant</p>
-<p>Goals: Our goal is to create opportunities for underrepresented
-minority populations to join the STEM workforce. We provide exposure to
-cutting-edge research, access to undergraduate research opportunities,
-and inclusion in a supportive community of near-peer role models and
-researcher mentors to improve retention in STEM students.</p>
-<h3 id="section-1">2021</h3>
-<p>Workshop: <a href="http://genomics.jhu.edu/workshop.html">Practical
-Genomics Workshop</a> with the Center for Computational Genomics at
-Johns Hopkins University in Baltimore, MD</p>
-<p>Sections: SU 2021, SU 2019</p>
-<p>Role: Content Creator &amp; Lead Teaching Assistant</p>
-<p>Goals: Provide training in genomics data science for complete
-beginners. Topics covered include: bulk RNA-seq, ChIP-seq, single cell
-RNA-seq, R, unix, cloud computing, and high performance cluster
-computing (HPC).</p>
-<h3 id="section-2">2020</h3>
-<p>Course: Neuroscience: A Single Cell Story at Johns Hopkins University
-in Baltimore, MD</p>
-<p>Sections: Winter Intercession 2020</p>
-<p>Role: Co-Instructor with <a href="https://yuqiyuqitan.github.io">Yuqi
-Tan</a></p>
-<p>Goals: The course Neuroscience: A single cell story will investigate
-the usefulness of single cell approaches to understand the biology of
-complex systems in neuroscience. We will cover basic approaches of
-single cell biology in neuroscience from a historical perspective
-including histology and physiology to single cell genomics popular
-today. We will cover concepts addressed by single cell biology,
-limitations, and practical, hands-on experience to transcriptomics in
-single cell biology.</p>
-<h3 id="section-3">2016</h3>
-<p>Career Development Series: Lunch-n-Learn Seminar Series for the <a
-href="https://www.hopkinsmedicine.org/psychiatry/specialty_areas/schizophrenia/research/conte_center/archive/P-star_Activities.html">Psychiatry
-Summer Research and Training Program</a> at Johns Hopkins University in
-Baltimore, MD</p>
-<p>Role: Guest Speaker</p>
-<p>Title: “Career Paths in Psychiatry”</p>
-<p>Goals: Contrast the clinical and basic science research opportunties
-in psychiatry. Discuss career paths for both medical and basic science
-training.</p>
-<h3 id="section-4">2014</h3>
-<p>Symposium: STEM Honors Conference at <a
-href="https://www.otc.edu">Ozarks Technical Community College</a> in
-Springfield, MO</p>
-<p>Role: Guest Speaker</p>
-<p>Title: “Research Opportunities for Community College STEM
-Students”</p>
-<p>Goals: Provide community college students with an example path into
-biomedical research. Equip the students with practical tools to identify
-funded research projects and get involved in research opportunities in
-their area.</p>
-<h3 id="section-5">2003 - 2006</h3>
-<p>Courses: General Chemistry, Organic Chemistry, and Chemistry for
-Health Sciences</p>
-<p>Role: Guest Speaker and Laboratory Assistant</p>
-<h2 id="mentoring">Mentoring</h2>
-<ul>
-<li><p>Chloë Trippaers (visiting graduate fellow) 2021 – 2022</p>
-<ul>
-<li>Co-author on 1 publication</li>
-</ul></li>
-<li><p>Elisa Carloni (post-baccalaureate student) 2019 – 2021 –&gt;
-Dartmouth Graduate Student</p>
-<ul>
-<li>Co-author on 2 publications</li>
-</ul></li>
-<li><p>Fangze Li, (post-baccalaureate student) 2019 – 2021 –&gt;
-Northwestern Graduate Student</p>
-<ul>
-<li>Co-author on 1 publication</li>
-</ul></li>
-<li><p>Lena Bless, (JHU undergraduate) 2017 – 2018</p></li>
-<li><p>Manish Paranjpe, (JHU undergraduate) 2017 – 2018 –&gt;
-Harvard/MIT MSTP Student</p>
-<ul>
-<li>Co-author on 1 publication</li>
-</ul></li>
-<li><p>Minjung Kim, (JHU undergraduate) 2015 – 2017</p></li>
-<li><p>Taechawidd Nantawisarakul, (P-STAR summer undergraduate) 2015
-–&gt; University of Maryland Medical Student</p></li>
-<li><p>Amedeo Primerano MD, (visiting fellow) 2015 –&gt;
-Physician</p></li>
-<li><p>Anna J Chang PhD, (JHU gradaute rotation student) 2013</p></li>
-<li><p>Carolyn Diaz, (P-STAR summer undergraduate) 2013 –&gt; Duke MSTP
-Student</p></li>
-<li><p>Fatimah Alkhunaizi MD, (JHU undergraduate) 2012 – 2014 –&gt;
-Physician</p></li>
-<li><p>Molly Pfeifer DVM, (NIH summer undergraduate) 2011 –&gt;
-Veterinarian</p></li>
-</ul>
-<div class="sourceCode" id="cb2"><pre
+<p><span class="citation" data-cites="Lindsay_Hayes_57255097">(<a
+href="#ref-Lindsay_Hayes_57255097" role="doc-biblioref">Hayes
+2018</a>)</span></p>
+<div class="sourceCode" id="cb1"><pre
 class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div id="refs" class="references csl-bib-body hanging-indent"
+role="doc-bibliography">
+<div id="ref-Lindsay_Hayes_57255097" class="csl-entry"
+role="doc-biblioentry">
+Hayes, Lindsay. 2018. <span>“Translocator Protein (TSPO) and Stress
+Cascades in Mouse Models of Psychosis with Inflammatory
+Disturbances.”</span> <em>Schizophrenia Research</em>. <a
+href="https://doi.org/10.1016/j.schres.2018.01.015">https://doi.org/10.1016/j.schres.2018.01.015</a>.
+</div>
+</div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
@@ -2543,7 +2160,10 @@ class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"><
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->
 <!--radix_placeholder_appendices-->
-<div class="appendix-bottom"></div>
+<div class="appendix-bottom">
+<h3 id="references">References</h3>
+<div id="references-listing"></div>
+</div>
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
 <!--/radix_placeholder_navigation_after_body-->

@@ -1,0 +1,17 @@
+---
+title: "Distill for R Markdown"
+description: | 
+  Scientific and technical writing, native to the web
+date: May 11, 2022
+author:
+  - first_name: "Lindsay"
+    last_name: "Hayes"
+    url: https://github.com/lindsaynhayes
+    affiliation: Department of Neuroscience, Johns Hopkins University
+    affiliation_url: https://neuroscience.jhu.edu
+    orcid_id: 0000-0001-6314-6451
+bibliography: works.bib
+output: distill::distill_article
+---
+
+[@Lindsay_Hayes_57255097]

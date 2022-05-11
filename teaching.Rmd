@@ -1,7 +1,100 @@
 ---
 title: "Teaching & Mentoring"
 description: |
-  Courses and workshops I've taught & Student's I've mentored
+  The goal of mentoring whether in the classroom or the laboratory is to comprehensively equip students with tools and resources to cultivate the skills required for their personalized futures.
+output:
+  distill::distill_article:
+    toc: true
+    theme: theme.css
 ---
 
+```{r, echo=FALSE, message=TRUE}
+message( " updated on ", Sys.Date() )
+```
 
+## Courses & Workshops
+
+### 2022
+
+Course: [Research in Biology](https://www.cloviscollege.edu/landing/biol-12-genomics-data-science.html) at Clovis Community College in Fresno, CA
+
+Sections: FA 2021, SP 2022, SU 2022
+
+Role: Content Creator & Lead Teaching Assistant
+
+Goals: Our goal is to create opportunities for underrepresented minority populations to join the STEM workforce. We provide exposure to cutting-edge research, access to undergraduate research opportunities, and inclusion in a supportive community of near-peer role models and researcher mentors to improve retention in STEM students.
+
+### 2021
+
+Workshop: [Practical Genomics Workshop](http://genomics.jhu.edu/workshop.html) with the Center for Computational Genomics at Johns Hopkins University in Baltimore, MD
+
+Sections: SU 2021, SU 2019
+
+Role: Content Creator & Lead Teaching Assistant
+
+Goals: Provide training in genomics data science for complete beginners. Topics covered include: bulk RNA-seq, ChIP-seq, single cell RNA-seq, R, unix, cloud computing, and high performance cluster computing (HPC).
+
+### 2020
+
+Course: Neuroscience: A Single Cell Story at Johns Hopkins University in Baltimore, MD
+
+Sections: Winter Intercession 2020
+
+Role: Co-Instructor with [Yuqi Tan](https://yuqiyuqitan.github.io)
+
+Goals: The course Neuroscience: A single cell story will investigate the usefulness of single cell approaches to understand the biology of complex systems in neuroscience. We will cover basic approaches of single cell biology in neuroscience from a historical perspective including histology and physiology to single cell genomics popular today. We will cover concepts addressed by single cell biology, limitations, and practical, hands-on experience to transcriptomics in single cell biology.
+
+### 2016
+
+Career Development Series: Lunch-n-Learn Seminar Series for the [Psychiatry Summer Research and Training Program](https://www.hopkinsmedicine.org/psychiatry/specialty_areas/schizophrenia/research/conte_center/archive/P-star_Activities.html) at Johns Hopkins University in Baltimore, MD
+
+Role: Guest Speaker
+
+Title: "Career Paths in Psychiatry"
+
+Goals: Contrast the clinical and basic science research opportunties in psychiatry. Discuss career paths for both medical and basic science training.
+
+### 2014
+
+Symposium: STEM Honors Conference at [Ozarks Technical Community College](https://www.otc.edu) in Springfield, MO
+
+Role: Guest Speaker
+
+Title: "Research Opportunities for Community College STEM Students"
+
+Goals: Provide community college students with an example path into biomedical research. Equip the students with practical tools to identify funded research projects and get involved in research opportunities in their area.
+
+### 2003 - 2006
+
+Courses: General Chemistry, Organic Chemistry, and Chemistry for Health Sciences
+
+Role: Guest Speaker and Laboratory Assistant
+
+## Mentoring
+-   Chloë Trippaers (visiting graduate fellow) 2021 -- 2022
+    -   Co-author on 1 publication
+    
+-   Elisa Carloni (post-baccalaureate student) 2019 -- 2021 --> Dartmouth Graduate Student
+    -   Co-author on 2 publications
+    
+-   Fangze Li, (post-baccalaureate student) 2019 -- 2021 --> Northwestern Graduate Student
+    -   Co-author on 1 publication
+    
+-   Lena Bless, (JHU undergraduate) 2017 -- 2018
+    
+-   Manish Paranjpe, (JHU undergraduate) 2017 -- 2018 --> Harvard/MIT MSTP Student
+    -   Co-author on 1 publication
+    
+-   Minjung Kim, (JHU undergraduate) 2015 -- 2017
+    
+-   Taechawidd Nantawisarakul, (P-STAR summer undergraduate) 2015 --> University of Maryland Medical Student
+    
+-   Amedeo Primerano MD, (visiting fellow) 2015 --> Physician
+    
+-   Anna J Chang PhD, (JHU gradaute rotation student) 2013
+    
+-   Carolyn Diaz, (P-STAR summer undergraduate) 2013 --> Duke MSTP Student
+    
+-   Fatimah Alkhunaizi MD, (JHU undergraduate) 2012 -- 2014 --> Physician
+    
+-   Molly Pfeifer DVM, (NIH summer undergraduate) 2011 --> Veterinarian
