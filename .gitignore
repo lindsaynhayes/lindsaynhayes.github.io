@@ -5,6 +5,7 @@
 # Session Data files
 .RData
 .xlsx
+.docx
 
 # User-specific files
 .Ruserdata
