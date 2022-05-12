@@ -4,7 +4,6 @@
 
 # Session Data files
 .RData
-.xlsx
 
 # User-specific files
 .Ruserdata
@@ -39,3 +38,4 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 *.docx
+*.xlsx
