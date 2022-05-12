@@ -40,7 +40,7 @@ message( " updated on ", Sys.Date() )
 
 15. Carney RS, Mangin JM, **Hayes LN**, Mansfield K, Sousa VH, Fishell G, Machold RP, Ahn S, Gallo V, Corbin JG (2010) Sonic hedgehog expressing and responding cells generate neuronal diversity in the medial amygdala. *Neural Development*, 5:14. [link](https://neuraldevelopment.biomedcentral.com/articles/10.1186/1749-8104-5-14)
 
-16. Devore M, **Foresee LN**, Michno N, Badger S (2006) Determination of Environmental Conditions of Four Greene County Caves. *Transactions of the Missouri Academy of Science*, 40:22--29.
+16. Devore M, **Foresee LN**, Michno N, Badger S (2006) Determination of Environmental Conditions of Four Greene County Caves. *Transactions of the Missouri Academy of Science*, 40:22--29.[link](https://www.moacademysci.org/wp-content/uploads/2017/01/Transactions40-2006.pdf)
 
 17. Li K, **Foresee LN**, Tunge JA (2005) Trifluoroacetic acid-mediated hydroarylation: synthesis of dihydrocoumarins and dihydroquinolones. *Journal of Organic Chemistry*, 70:2881--2883. [link](https://pubs.acs.org/doi/10.1021/jo0477650)
 

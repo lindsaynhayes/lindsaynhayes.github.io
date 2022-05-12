@@ -1,8 +1,7 @@
 ---
-title: "Welcome to my Site!"
+title: "Overview of Ongoing Research Projects"
 description: | 
-  I'm glad you're here ...
-date: May 11, 2022
+date: May 12, 2022
 author:
   - first_name: "Lindsay"
     last_name: "Hayes"
@@ -10,21 +9,22 @@ author:
     affiliation: Department of Neuroscience, Johns Hopkins University
     affiliation_url: https://neuroscience.jhu.edu
     orcid_id: 0000-0001-6314-6451
-bibliography: works.bib
+bibliography: references2.bib
 output: distill::distill_article
 ---
 
-<aside>
-```{r image, echo=FALSE}
- knitr::include_graphics("Lindsay1.jpg")
-```
-</aside>
+## Microglia Dysfunction in a Mouse Model of Neurodevelopmental Disorders
 
+Many genetic [@Hayes2016-ys] and environmental [@Carloni2021-ez] associations are linked as risk factors for neuropsychiatric disorders. I use mouse models to investigate the basic neurobiology of some of these risk factors in disease pathophysiology. I evaluated an environmental risk factor (developmental inflammation) in disease pathophysiology using the maternal immune activation (MIA) mouse model [@Hayes2021-eh; @Mueller2019-qr]. After prenatal inflammation, I found a baseline increase stress hormones in the periphery, and an altered protein oxidative stress in the brain consistent with observations from clinical studies [@Fukudome2018-gu]. Furthermore, I found a blunted microglia reactivity, particularly in the striatum, after MIA, along with electrophysiological abnormalities in corticostriatal circuits [@Hayes2021-eh]. The MIA microglia showed epigenetic changes and impaired transcriptional regulation in response to prenatal immune stress as a mechanism for the blunted reactivity [@Hayes2021-eh]. Finally, I determined the dysfunctional microglia were causal to the proper development of the corticostriatal circuits [@Hayes2021-eh]. In summary, I determined that prenatal immune stress acts as a tolerizing stimulus on microglia leading to a long-term functional impairment and contribution to development of impaired neural circuits in the basal ganglia.
 
+## Clinical Inflammation & Oxidative Stress Projects
 
-Lindsay is a researcher in the [Department of Neuroscience](https://neuroscience.jhu.edu) at [Johns Hopkins University](https://www.jhu.edu). She studies neuroinflammation and microglia biology in the context of health and disease. Lindsay uses both clinical samples and animal models to investigate the cellular and molecular mechanisms underlying neuroinflammation and how it impacts brain function and disease phenotypes.
+The role of inflammation and oxidative stress in psychiatric disorders remains controversial. Previous data is confounded by extended exposure to medication, duration of illness, and lack of a clear cellular mechanism. In these translational psychiatry studies, we obtained cerebrospinal fluid and peripheral blood from drug-naïve, recent-onset, and chronic psychosis patients. We found increased inflammatory markers [@Hayes2014-jw; @Tanaka2017-fb] and altered oxidative stress pathways [@Coughlin2016-kk; @Coughlin2017-jk; @Nucifora2017-ra] in schizophrenia and psychosis patients at the early stages of disease without the influence of extended medication. We observed increased levels of antibodies for infectious agents in psychosis patients, and many of the inflammatory markers were correlated with the antibodies for infectious agents [@Hayes2014-jw]. Furthermore, cognitive function was found to correlate with one of the infectious agents [@Hayes2014-jw]. These data suggest that exposure to infection agents may contribute to altered immune function in patients with psychotic disorders and impair cognitive function. Together these translational psychiatry studies provide further evidence for a neuroimmunological mechanism in the pathology of psychiatric disorders.
 
-[@Lindsay_Hayes_57255097]
+## Developmental Biology Projects
+
+Through a number of projects we determined how diversification of cellular identity is specified from a defined progenitor domain through close temporal and spatial control of progenitor cells. Deciphering cell fate specification is important for cell-based therapeutics targeting cell replacement and discovering how cells become susceptible in disease. Using combinatorial genetic fate mapping approaches, these studies defined how progenitors become specified before differentiation based on the spatial and temporal expression of key developmental genes (Shh, Gli1, Nkx2.1, and Wnt1)[@Hayes2011-mf; @Brown2011-yf; @Carney2010-ut]. Furthermore, we were the first to demonstrate that cessation of Shh signaling after the critical period is important for midbrain patterning[@Hayes2013-lv]. In sum, we found that spatial location within the progenitor domain, timing of gene expression, and duration of downstream signaling are all critical for proper differentiation and subtype specification. These findings can provide a guide map for generation of specific cell types in vitro for cell replacement in neurodegenerative diseases.
 
 ## Site {.appendix}
+
 Created with Blogdown, Distill, and postscards
