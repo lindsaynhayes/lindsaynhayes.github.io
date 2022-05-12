@@ -21,7 +21,7 @@ output:
 
 ## Conference Presentation (Oral)
 ### Keystone 2022
-**Neuro-Immune Interactions in the Central Nervous System** Title: Prenatal immune stress induces a prolonged blunting of microglia reactivity that impairs striatal connectivity. Keystone: Neuro-Immune Interactions in the Central Nervous System. Hayes LN, An K, Carloni E, Li F, Vincent E, Paranjpe M, Trippaers C, Dölen G, Goff LA, Ramos A, Kano SI, Sawa A. June 2022
+**Neuro-Immune Interactions in the Central Nervous System** Title: Prenatal immune stress induces a prolonged blunting of microglia reactivity that impairs striatal connectivity. Keystone: Neuro-Immune Interactions in the Central Nervous System. Hayes LN, An K, Carloni E, Li F, Vincent E, Paranjpe M, Trippaers C, Dölen G, Goff LA, Ramos A, Kano SI, Sawa A.
 
 ### EMBO 2021
 **EMBO Microglia Workshop** Title: Prenatal immune stress induces a prolonged blunting of microglia activation and neuronal connectivity. Hayes LN, An K, Vincent E, Paranjpe M, Bless L, Chang AJ, Diaz C, Dölen G, Kano SI, Ramos A, Goff LA, Sawa A. (Flash Talk)
