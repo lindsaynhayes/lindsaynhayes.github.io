@@ -11,7 +11,7 @@ output:
 ## Invited Talks
 
 ### CSHL
-**Schizophrenia and Related Disorders CSHL Workshop** Title: Neuroinflammation and Brain Immune Cells in Neuropsychiatric Disorders. Harbor, NY. June 2022
+**Schizophrenia and Related Disorders CSHL Workshop** Title: Microglia Contributions to Immune Mechanism in Psychosis. Cold Spring Harbor, NY. June 2022
 
 ### PNC
 **Johns Hopkins Perinatology & Neonatology Monthly Colloquium** Title: Neuroimmune Interactions from Development to Mature Brain Function. Baltimore, MD. July 2019

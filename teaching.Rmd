@@ -15,7 +15,7 @@ Course: [Research in Biology](https://www.cloviscollege.edu/landing/biol-12-geno
 
 Sections: FA 2021, SP 2022, SU 2022
 
-Role: Content Creator & Lead Teaching Assistant
+Role: Content Creator & Lead Teaching Assistant & Co-Instructor
 
 Goals: Our goal is to create opportunities for underrepresented minority populations to join the STEM workforce. We provide exposure to cutting-edge research, access to undergraduate research opportunities, and inclusion in a supportive community of near-peer role models and researcher mentors to improve retention in STEM students.
 
@@ -37,7 +37,7 @@ Sections: Winter Intercession 2020
 
 Role: Co-Instructor with [Yuqi Tan](https://yuqiyuqitan.github.io)
 
-Goals: The course Neuroscience: A single cell story will investigate the usefulness of single cell approaches to understand the biology of complex systems in neuroscience. We will cover basic approaches of single cell biology in neuroscience from a historical perspective including histology and physiology to single cell genomics popular today. We will cover concepts addressed by single cell biology, limitations, and practical, hands-on experience to transcriptomics in single cell biology.
+Goals: The course investigated the usefulness of single cell approaches to understand the biology of complex systems in neuroscience. We covered basic approaches of single cell biology in neuroscience from a historical perspective including histology and physiology to single cell genomics popular today. We introduced concepts uniquely addressed by single cell techniques, limitations, and practical, hands-on experience to transcriptomics in single cell biology.
 
 ### 2016
 
@@ -47,13 +47,13 @@ Role: Guest Speaker
 
 Title: "Career Paths in Psychiatry"
 
-Goals: Contrast the clinical and basic science research opportunties in psychiatry. Discuss career paths for both medical and basic science training.
+Goals: Contrast the clinical and basic science research opportunities in psychiatry. Discuss career paths for both medical and basic science training.
 
 ### 2014
 
 Symposium: STEM Honors Conference at [Ozarks Technical Community College](https://www.otc.edu) in Springfield, MO
 
-Role: Guest Speaker
+Role: Keynote Speaker
 
 Title: "Research Opportunities for Community College STEM Students"
 
@@ -63,7 +63,7 @@ Goals: Provide community college students with an example path into biomedical r
 
 Courses: General Chemistry, Organic Chemistry, and Chemistry for Health Sciences at Evangel University in Springfield, MO
 
-Role: Guest Speaker and Laboratory Assistant
+Role: Lead Laboratory Instructor
 
 ## Mentoring
 -   Chloë Trippaers (visiting graduate fellow) 2021 -- 2022
