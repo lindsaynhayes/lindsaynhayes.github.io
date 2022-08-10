@@ -16,3 +16,14 @@ create_theme(name = "theme")
 create_article(file = "test", template = "jolla", package = "postcards")
 create_article(file = "test")
 ```
+
+```{r, eval=FALSE}
+# to update
+# open Rproj
+# update content
+# Build Website to preview
+# with index and _site.yml open run build website.
+# push to github. 
+
+
+```
