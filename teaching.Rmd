@@ -17,7 +17,11 @@ Sections: FA 2021, SP 2022, SU 2022
 
 Role: Content Creator & Co-Instructor
 
-Goals: Our goal is to create opportunities for underrepresented minority populations to join the STEM workforce. We provide exposure to cutting-edge research, access to undergraduate research opportunities, and inclusion in a supportive community of near-peer role models and researcher mentors to improve retention in STEM students.
+Goals: Our goal is to create opportunities for underrepresented minority populations to join the STEM workforce. We provide exposure to cutting-edge research, access to undergraduate research opportunities, and inclusion in a supportive community of role models and researcher mentors to improve retention in STEM students. Check out this talk about the NIH funded support to build a data science research experience for community college students. 
+
+![](https://youtu.be/PYBL_pEseIw)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PYBL_pEseIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2021
 
