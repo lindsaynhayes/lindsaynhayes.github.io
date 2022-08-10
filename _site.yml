@@ -18,7 +18,7 @@ navbar:
     - text: "Teaching"
       href: teaching.html
     - text: "CV"
-      href: CV.pdf
+      href: Hayes_Lindsay_CV.pdf
       
       
 output: distill::distill_article
