@@ -23,7 +23,5 @@ create_article(file = "test")
 # update content
 # Build Website to preview
 # with index and _site.yml open run build website.
-# push to github. 
-
-
+# push to github
 ```
