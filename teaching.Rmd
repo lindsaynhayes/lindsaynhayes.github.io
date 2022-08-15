@@ -7,6 +7,7 @@ output:
     toc: true
     theme: theme.css
 ---
+
 ## Courses & Workshops
 
 ### 2022
@@ -15,11 +16,13 @@ Course: [Research in Biology](https://www.cloviscollege.edu/landing/biol-12-geno
 
 Sections: FA 2021, SP 2022, SU 2022
 
-Role: Content Creator & Co-Instructor
+Role: Content Creator & Co-Instructor with [Rosa Alcazar](https://www.cloviscollege.edu/directory/rosa-alcazar.html)
 
-Goals: Our goal is to create opportunities for underrepresented minority populations to join the STEM workforce. We provide exposure to cutting-edge research, access to undergraduate research opportunities, and inclusion in a supportive community of role models and researcher mentors to improve retention in STEM students. Check out this talk by Rosa Alcazar, the lead instructor, about the NIH funded support to build a data science research experience for community college students.
+Goals: Our goal is to create opportunities for underrepresented minority populations to join the STEM workforce. We provide exposure to cutting-edge research, access to undergraduate research opportunities, and inclusion in a supportive community of role models and researcher mentors to improve retention in STEM students. Watch Rosa Alcazar, the lead instructor, talk about the course!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PYBL_pEseIw?start=818" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PYBL_pEseIw?start=818" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
 
 ### 2021
 
@@ -67,31 +70,26 @@ Courses: General Chemistry, Organic Chemistry, and Chemistry for Health Sciences
 
 Role: Lead Laboratory Instructor
 
-## Mentoring
--   Chloë Trippaers (visiting graduate fellow) 2021 -- 2022
+## Trainee Mentoring
+### 3 graduate students
+-   **Chloë Trippaers** (visiting graduate fellow) 2021 -- 2022
     -   Co-author on 1 publication
-    
--   Elisa Carloni (post-baccalaureate student) 2019 -- 2021 --> Dartmouth Graduate Student
+-   **Amedeo Primerano** MD, (visiting fellow) 2015 --\> Physician
+-   **Anna J Chang** PhD, (JHU graduate rotation student) 2013
+
+### 2 post-baccalaureate students
+-   **Elisa Carloni** (post-baccalaureate student) 2019 -- 2021 --\> Dartmouth Graduate Student
     -   Co-author on 2 publications
-    
--   Fangze Li, (post-baccalaureate student) 2019 -- 2021 --> Northwestern Graduate Student
+-   **Fangze Li**, (post-baccalaureate student) 2019 -- 2021 --\> Northwestern Graduate Student
     -   Co-author on 1 publication
-    
--   Lena Bless, (JHU undergraduate) 2017 -- 2018
-    
--   Manish Paranjpe, (JHU undergraduate) 2017 -- 2018 --> Harvard/MIT MSTP Student
+
+### 7 undergraduate students
+-   **Lena Bless**, (JHU undergraduate) 2017 -- 2018
+-   **Manish Paranjpe**, (JHU undergraduate) 2017 -- 2018 --\> Harvard/MIT MSTP Student
     -   Co-author on 1 publication
-    
--   Minjung Kim, (JHU undergraduate) 2015 -- 2017
-    
--   Taechawidd Nantawisarakul, (P-STAR summer undergraduate) 2015 --> University of Maryland Medical Student
-    
--   Amedeo Primerano MD, (visiting fellow) 2015 --> Physician
-    
--   Anna J Chang PhD, (JHU gradaute rotation student) 2013
-    
--   Carolyn Diaz, (P-STAR summer undergraduate) 2013 --> Duke MSTP Student
-    
--   Fatimah Alkhunaizi MD, (JHU undergraduate) 2012 -- 2014 --> Physician
-    
--   Molly Pfeifer DVM, (NIH summer undergraduate) 2011 --> Veterinarian
+-   **Minjung Kim**, (JHU undergraduate) 2015 -- 2017
+    -   Co-author on 1 publication
+-   **Taechawidd Nantawisarakul**, (P-STAR summer undergraduate) 2015 --\> University of Maryland Medical Student
+-   **Carolyn Diaz**, (P-STAR summer undergraduate) 2013 --\> Duke MSTP Student
+-   **Fatimah Alkhunaizi** MD, (JHU undergraduate) 2012 -- 2014 --\> Physician
+-   **Molly Pfeifer** DVM, (NIH summer undergraduate) 2011 --\> Veterinarian

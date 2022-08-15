@@ -7,7 +7,7 @@ author:
     last_name: "Hayes"
     url: https://github.com/lindsaynhayes
     affiliation: Department of Neuroscience, Johns Hopkins University
-    affiliation_url: https://neuroscience.jhu.edu
+    #affiliation_url: https://neuroscience.jhu.edu
     orcid_id: 0000-0001-6314-6451
 bibliography: references.bib
 output: distill::distill_article
