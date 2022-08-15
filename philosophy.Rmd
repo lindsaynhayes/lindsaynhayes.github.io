@@ -1,0 +1,18 @@
+---
+title: "Diversity Through Inclusivity"
+description: |
+  The Hayes Lab values all individuals and strives to build an equitable research environment to freely explore both science and ourselves.
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+We are committed to cultivating an inclusive lab culture and actively stand against prejudice. We value each member of our community, and discrimination against race, ethnicity, gender identity, sexual orientation, disability, socioeconomic status, age, religion, or other personal identifier will not be permitted. Furthermore, we will take actions to promote inclusivity in our lab but also in our broader communities including our department, school, and scientific community. We are explorers - we look into the unknown to make discovers about how the world works. Sometimes the unknown is in the brain of a mouse or a vessel of a human, and other times it is within ourselves. I aim to train people to be good scientists, but to be good humans first.
+
+
+
+
+

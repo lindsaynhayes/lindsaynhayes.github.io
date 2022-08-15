@@ -13,6 +13,8 @@ navbar:
           href: projects.html
         - text: "Hayes et al. 2022 Nature"
           href: https://lindsaynhayes.github.io/Hayes_2022/
+    - text: "Values"
+      href: philosophy.html
     - text: "Talks"
       href: talks.html
     - text: "Teaching"
