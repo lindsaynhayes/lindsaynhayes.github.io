@@ -19,6 +19,8 @@ navbar:
       href: talks.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Outreach"
+      href: outreach.html
     - text: "CV"
       href: Hayes_Lindsay_CV.pdf
       
