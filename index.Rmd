@@ -9,7 +9,7 @@ links:
   - label: '<i class="fa fa-github" aria-hidden="true"></i>'
     url: "https://github.com/lindsaynhayes"
   - label: '<i class="fa fa-envelope" aria-hidden="true"></i>'
-    url: "mailto:lindsaynhayes@gmail.com"
+    url: "mailto:lindsay-hayes@ouhsc.edu"
   #- label: '<i class="fa-brands fa-orcid"></i>'
   #  url: "https://orcid.org/0000-0001-6314-6451"
 
@@ -18,13 +18,16 @@ output:
 site: distill::distill_website
 ---
 
-### Bio 
+### Bio
+
 I am a researcher in the [Department of Neuroscience](https://neuroscience.jhu.edu) at [Johns Hopkins University](https://www.jhu.edu). I use both human clinical samples and animal models to investigate the cellular and molecular mechanisms underlying neuroinflammation and how it impacts brain development and function in health and disease.
 
 ### Research Goals
+
 My research interests include determining how microglia infiltrate, pattern, and differentiate to their region-specific identity. Characterizing their developmental trajectory will highlight the regional and temporal susceptibility of various brain structures to developmental stressors. Furthermore, I aim to identify the regulatory mechanisms that control microglia activation through changes in microglia epigenetic and metabolic states which I found were both disturbed in response to prenatal immune stress. It is important to develop tools to control microglia reactivity which contributes to disease pathology of both developmental and neurodegenerative brain disorders. Altogether, my studies will provide a greater understanding of microglia activation to pinpoint windows of susceptibility to developmental stressors ultimately enabling the identification of novel targets for pharmacological intervention through manipulations of microglia.
 
 ### Experience
+
 I am equipped to teach a variety of courses in neuroscience, developmental biology, and data science. I have expertise in cell and molecular biology, mouse genetics, microglia, animal behavior, and data science including RNA and ATAC sequencing and single cell biology. I have mentored undergraduate and graduate students and maintain productive collaborations with my colleagues.
 
 Find more details about my lab [philosophy](https://lindsaynhayes.github.io/philosophy.html), ongoing [projects](https://lindsaynhayes.github.io/projects.html), and my list of [publications](https://lindsaynhayes.github.io/publications.html). Also find my teaching and mentorship experience [here](https://lindsaynhayes.github.io/teaching.html).
