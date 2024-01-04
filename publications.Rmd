@@ -10,6 +10,8 @@ message( " updated on ", Sys.Date() )
 
 [link to Pubmed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/lindsay.hayes.1/bibliography/public/)
 
+[link to Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAXHtXP8CmkpG-GLig5B4MzBvK0by1LYxI938UwQ9bMXwoYP-Mm-3H4uKPKaTF3R5UZ-ZP0aKe0LJ0ybcaYHbO5Y&user=xZ4hUFwAAAAJ)
+
 1. **Hayes LN**, An K, Carloni E, Li F, Vincent E, Paranjpe M, Dolen G, Goff LA, Ramos A, Kano S, Sawa A (2022) Prenatal immune stress induces a prolonged blunting of microglia activation that impacts striatal connectivity. *Nature*, In Press [link](https://www.nature.com/articles/s41586-022-05274-z)
 
 1.  **Hayes LN**, An K, Carloni E, Li F, Vincent E, Paranjpe M, Dolen G, Goff LA, Ramos A, Kano S, Sawa A (2021) Prenatal immune stress induces a prolonged blunting of microglia activation that impacts striatal connectivity. *bioRxiv*, 2021.12.27.473694. [link](https://www.biorxiv.org/content/10.1101/2021.12.27.473694v1)
