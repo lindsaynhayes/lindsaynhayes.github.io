@@ -10,6 +10,15 @@ output:
 
 ## Courses & Workshops
 
+### 2023
+
+Course: Practical Genomics Workshop
+Sections: FA 2023
+
+Role: Co-Instructor
+
+Goals: Provide training in genomics data science for beginners. Topics covered included single cell RNA-seq and R.
+
 ### 2022
 
 Course: [Research in Biology](https://www.cloviscollege.edu/landing/biol-12-genomics-data-science.html) at Clovis Community College in Fresno, CA
@@ -71,10 +80,11 @@ Courses: General Chemistry, Organic Chemistry, and Chemistry for Health Sciences
 Role: Lead Laboratory Instructor
 
 ## Trainee Mentoring
-### 3 graduate students
+### 4 graduate students
+-   **Ruoyu (James) Wang** (JHSPH graduate rotation student) 2023
 -   **Chloë Trippaers** (visiting graduate fellow) 2021 -- 2022
     -   Co-author on 1 publication
--   **Amedeo Primerano** MD, (visiting fellow) 2015 --\> Physician
+-   **Amedeo Primerano** MD, (visiting medical fellow) 2015 --\> Physician
 -   **Anna J Chang** PhD, (JHU graduate rotation student) 2013
 
 ### 2 post-baccalaureate students
@@ -83,13 +93,14 @@ Role: Lead Laboratory Instructor
 -   **Fangze Li**, (post-baccalaureate student) 2019 -- 2021 --\> Northwestern Graduate Student
     -   Co-author on 1 publication
 
-### 7 undergraduate students
+### 8 undergraduate students
+-   **Rajaa Alhamd**, (JHU undergraduate) 2023
 -   **Lena Bless**, (JHU undergraduate) 2017 -- 2018
 -   **Manish Paranjpe**, (JHU undergraduate) 2017 -- 2018 --\> Harvard/MIT MSTP Student
     -   Co-author on 1 publication
 -   **Minjung Kim**, (JHU undergraduate) 2015 -- 2017
     -   Co-author on 1 publication
--   **Taechawidd Nantawisarakul**, (P-STAR summer undergraduate) 2015 --\> University of Maryland Medical Student
+-   **Taechawidd Nantawisarakul**, (P-STAR summer undergraduate) 2015 --\> Physician
 -   **Carolyn Diaz**, (P-STAR summer undergraduate) 2013 --\> Duke MSTP Student
 -   **Fatimah Alkhunaizi** MD, (JHU undergraduate) 2012 -- 2014 --\> Physician
 -   **Molly Pfeifer** DVM, (NIH summer undergraduate) 2011 --\> Veterinarian

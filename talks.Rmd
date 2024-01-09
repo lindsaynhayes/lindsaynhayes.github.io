@@ -8,7 +8,25 @@ output:
     theme: theme.css
 ---
 
-## Invited Talks
+## Invited Talks / Symposiums
+
+### FENS
+**Federation of European Neuroscience Societies** Title: Maternal immune activation and neurodevelopmental disorders: from molecular insights to new models. Vienna, Austria. May 2024
+
+### ACNP
+**American College of Neuropsychopharmacology** *Co-Chair* Title: Glial & Immune Cells Contribute to Brain Function in Neuropsychiatric Disorders. Tampa, FL. December 2023
+
+### SfN
+**Society for Neuroscience Mini-symposium** Title: The good, the bad, and the microglia: How microglia shape brain circuitry across the lifespan. Washington, DC. October 2023
+
+### Spring Brain
+**Spring Brain** *Session Chair* Title: Prenatal stress induces diminished microglia reactivity and deficits in striatal connectivity. Sedona, AZ. April 2023
+
+### Open Box Science
+**Open Box Science Virtual Seminar** Title: Prenatal immune stress blunts microglia reactivity, impairing neurocircuitry. [link](https://www.youtube.com/watch?v=oms322Izelo&t=44s) November 2022
+
+### JHU
+**Molecular and Comparative Pathobiology Departmental Seminar** Title: Microglia Contributions to Immune Mechanisms in Psychosis. Baltimore, MD. October 2022
 
 ### CSHL
 **Schizophrenia and Related Disorders CSHL Workshop** Title: Microglia Contributions to Immune Mechanism in Psychosis. Cold Spring Harbor, NY. June 2022

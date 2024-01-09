@@ -12,7 +12,9 @@ message( " updated on ", Sys.Date() )
 
 [link to Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAXHtXP8CmkpG-GLig5B4MzBvK0by1LYxI938UwQ9bMXwoYP-Mm-3H4uKPKaTF3R5UZ-ZP0aKe0LJ0ybcaYHbO5Y&user=xZ4hUFwAAAAJ)
 
-1. **Hayes LN**, An K, Carloni E, Li F, Vincent E, Paranjpe M, Dolen G, Goff LA, Ramos A, Kano S, Sawa A (2022) Prenatal immune stress induces a prolonged blunting of microglia activation that impacts striatal connectivity. *Nature*, In Press [link](https://www.nature.com/articles/s41586-022-05274-z)
+1. **Hayes LN**, An K, Carloni E, Li F, Vincent E, Paranjpe M, Dolen G, Goff LA, Ramos A, Kano S, Sawa A (2022) Prenatal immune stress induces a prolonged blunting of microglia activation that impacts striatal connectivity. *Nature*, 610(7931):327-334 [link](https://www.nature.com/articles/s41586-022-05274-z)
+
+1. Ramos A, Ishizuka K, Namkung H, **Hayes LN**, Saito A, Sengupta A, Srivastava R, Calva C, Hayashida A, Elkins N, Palen T, Carloni E, Tsujimura T, Gallego JA, Robinson DG, Malhotra AK, Ikemoto S, Rais R, Slusher BS, Niwa M, Saitoh T, Takimoto E, Sawa A (2022) The nuclear GAPDH-HMBG cascade in cortical microglia regulates cognitive flexibility. *bioRxiv*, 2022.06.21.497065 [link](https://www.biorxiv.org/content/10.1101/2022.06.21.497065v3)
 
 1.  **Hayes LN**, An K, Carloni E, Li F, Vincent E, Paranjpe M, Dolen G, Goff LA, Ramos A, Kano S, Sawa A (2021) Prenatal immune stress induces a prolonged blunting of microglia activation that impacts striatal connectivity. *bioRxiv*, 2021.12.27.473694. [link](https://www.biorxiv.org/content/10.1101/2021.12.27.473694v1)
 
