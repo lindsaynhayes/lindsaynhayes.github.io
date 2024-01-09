@@ -20,7 +20,7 @@ create_article(file = "test")
 ```{r, eval=FALSE}
 # to update
 # open Rproj
-# update content in .Rmd, knit to html, move html to docs/
+# update content in .Rmd
 # Build Website to preview
 # with index and _site.yml open run build website.
 # push to github
