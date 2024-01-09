@@ -24,5 +24,4 @@ navbar:
     - text: "CV"
       href: Hayes_Lindsay_CV_2023.12.12.pdf
       
-      
 output: distill::distill_article
